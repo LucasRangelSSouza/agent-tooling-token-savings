@@ -1,0 +1,22 @@
+{
+ "attempts": 18,
+ "attempts_ok": 6,
+ "disk_gepa": 1.0,
+ "disk_headroom": 83.0,
+ "disk_mcptoon": 3.0,
+ "disk_otel": 1.0,
+ "harness_failures": 6,
+ "m_headroom_compress_s": 2.74,
+ "m_otel_spans_per_s": 37939.0,
+ "other_failures": 6,
+ "rss_gepa": 59.0,
+ "rss_headroom": 129.0,
+ "rss_mcptoon": 73.0,
+ "rss_otel": 59.0,
+ "tools": 4,
+ "tools_with_success": 4,
+ "wall_gepa": 4.0,
+ "wall_headroom": 34.6,
+ "wall_mcptoon": 17.1,
+ "wall_otel": 7.0
+}
